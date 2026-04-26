@@ -165,14 +165,15 @@ K-B/
 
 ---
 
-## Getting Started
+## Stack
 
-> TODO once we pick a stack (PyTorch vs. JAX, package manager, etc.). Add a
-> `pyproject.toml` and a minimal `src/kb/__init__.py` in the first code PR.
+- **Framework:** PyTorch
+- **Package manager / build:** TBD (likely `uv` + `pyproject.toml`) — pin in the
+  first code PR alongside a minimal `src/kb/__init__.py`.
 
 ---
 
 ## Authors
 
-- **Keenan** — [add affiliation / contact]
+- **Keenan** — _affiliation / contact TBD (see issue tracker)_
 - **Brian Bell** — brian.dux.bellorum@gmail.com
