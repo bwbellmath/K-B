@@ -175,5 +175,5 @@ K-B/
 
 ## Authors
 
-- **Keenan** — _affiliation / contact TBD (see issue tracker)_
+- **Keenan** — Keenan.J.Eikenberry@dartmouth.edu
 - **Brian Bell** — brian.dux.bellorum@gmail.com
